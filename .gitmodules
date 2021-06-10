@@ -1,0 +1,3 @@
+[submodule "intexapi/intexapi"]
+	path = intexapi/intexapi
+	url = git@github.com:jeffreydmohler/Intex-II-API.git
